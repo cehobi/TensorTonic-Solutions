@@ -12,6 +12,8 @@ def sigmoid(x: list | float) -> np.ndarray | float:
         return float(res)
     return res;
 
+    print(res)
+
 
     # Write code here
     pass
